@@ -26,6 +26,7 @@ My name is Jefferson Lima, dev in backend and frontend.
 <img title="FLUTTER" alt="DEV-ICON"height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img title="PYTHON" alt="DEV-ICON" height="30" width="40" align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 ## Contact me
   <div>
