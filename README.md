@@ -2,8 +2,8 @@
 My name is Jefferson Lima, dev in backend and frontend.
 ##
   <div align="center">
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=rickalves&show_icons=true&theme=highcontrast"/>
-    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rickalves&theme=highcontrast&layout=compact"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=itachizinsz&show_icons=true&theme=highcontrast"/>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itachizinsz&theme=highcontrast&layout=compact"/>
  </div>
   
 ## Skills
