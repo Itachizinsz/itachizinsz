@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello world 👋
 My name is Jefferson Lima, dev in backend and frontend.
 ##
   <div align="center">
